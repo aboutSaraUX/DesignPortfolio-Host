@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksara_site=globalThis.webpackChunksara_site||[]).push([[3774],{6747:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/designportfolio-host/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
