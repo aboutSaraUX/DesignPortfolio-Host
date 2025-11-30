@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksara_site=globalThis.webpackChunksara_site||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/DesignPortfolio-Host/blog","blogTitle":"Blog","authorsListPath":"/DesignPortfolio-Host/blog/authors"}')}}]);
